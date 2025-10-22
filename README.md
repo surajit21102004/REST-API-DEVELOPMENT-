@@ -65,6 +65,13 @@ Consistent JSON structure for all responses:
 
 **Running the Project**
 
+Dependecies that you need to Import 
+
+npm init -y
+npm install express axios morgan joi winston
+npm install --save-dev nodemon mocha chai supertest
+
+
 Install dependencies:
 
 npm install
